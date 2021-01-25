@@ -1,0 +1,5 @@
+{
+    "port": "5000",
+    "url":"mongodb+srv://user1:r4x6aX5uNh2y5XO4@cluster0.sdqns.mongodb.net/nasaProj?retryWrites=true&w=majority",
+    "jwtSecret": "arlan2000"
+}
